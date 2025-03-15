@@ -1,1 +1,19 @@
+-- Easy Level
+
+-- 1. Simple Definitions:
+-- Data – Any kind of information stored in a computer.
+-- Database – A place where data is stored in an organized way.
+-- Relational Database – A type of database where data is kept in tables that are connected to each other.
+-- Table – A structure inside a database that holds data in rows and columns.
+
+-- 2. Five important things about SQL Server:
+-- - Works fast and can handle a lot of data
+-- - Keeps data safe with encryption and authentication
+-- - Allows using stored procedures and triggers to automate tasks
+-- - Can work with other Microsoft products
+-- - Supports backup and replication to prevent data loss
+
+-- 3. Ways to log in to SQL Server:
+-- - Windows Authentication (uses Windows account to log in)
+-- - SQL Server Authentication (uses a separate username and password)
 
