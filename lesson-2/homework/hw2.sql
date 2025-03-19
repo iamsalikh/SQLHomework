@@ -1,3 +1,4 @@
+-- DBMS: Microsoft SQL Server
 use MyDatabase 
 -- Basic-Level Tasks
 -- 1. Create a table Employees with columns: EmpID INT, Name (VARCHAR(50)), and Salary (DECIMAL(10,2)).
